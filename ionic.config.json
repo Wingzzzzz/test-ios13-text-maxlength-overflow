@@ -1,5 +1,7 @@
 {
   "name": "test-max-length",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
